@@ -1,0 +1,24 @@
+title: OutlinedArc217 in 🌎
+name: OutlinedArc217
+email: z3407323905@outlook.com
+description: ₍˄·͈༝·͈˄*₎◞ ̑̑
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://outlinedarc217.github.io"
+github_username:  OutlinedArc217
+
+# Layout settings
+header_type: default  # values [ drawer, default ]
+post_type: highlight    # values [ highlight, default ]
+pagination_type: default  # values [ ops, default ]
+
+more_vert:
+  option1:
+    name: Libstack
+    link: https://t.me/libstack
+  
+
+disqus: true
+disqus_shortname: 'gdgmanagua'
+
+# Build settings
+markdown: kramdown
