@@ -2,7 +2,7 @@ title: OutlinedArc217 in 🌎
 name: OutlinedArc217
 email: z3407323905@outlook.com
 description: ₍˄·͈༝·͈˄*₎◞ ̑̑
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" 
 url: "http://outlinedarc217.github.io"
 github_username:  OutlinedArc217
 
